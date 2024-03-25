@@ -1,0 +1,35 @@
+Spor ve Fitness ürünlerini sergileyeceğim bir web sitesi oluşturcam. bana örnek ürünler listesi ver
+
+Bir çift Nike air max unisex koşu ayakkabısı tasarla
+
+Bir çift Basketbol ayakkabısı tasarla üzerinde adidas logosu olsun yazı olmasın
+
+Spor ürünleri galerisi oluşturacağım bu galeriye bir isim vermek istiyorum. adım fuat mencik bu ismi kullanarak bir isim oluştur 
+
+Manken üzerinde duran siyah nike pro sporcu tişördü oluştur.
+
+bi çift 40 kglık dumbel seti tasarla.
+
+Antrenman eşofmanı görüntüsü tasarla.
+
+fitnes topu oluşturmak için dall e ye nasıl bir komut vermeliyim 
+
+bir fitness topu, mavi renkte, çapı 65 cm olan ve üzerinde beyaz çizgiler bulunan bir top
+
+Sportif bir matara istiyorum. Matara, metal bir gövdeye sahip olsun ve mataranın üzerinde sporcu teması bulunsun. Matara, sporcu figürüyle birlikte, spor kıyafetleri içinde, antrenman yaparken veya spor yaparken görünmelidir. Matara, sporcu figürünün yanında bir spor sahası veya fitness stüdyosu gibi bir arka plana sahip olmalıdır. Matara, sporcu motivasyonunu artırmak için canlı ve enerjik renklere sahip olmalıdır, örneğin mavi ve yeşil tonlar kullanılabilir. Lütfen mataranın üst kısmında kapağın olduğunu ve içine su veya spor içeceği konulabileceğini unutmayın
+
+Sporcu saati istiyorum. Saat, modern ve şık bir tasarıma sahip olsun. Saat kadranı büyük ve kolay okunabilir olmalıdır. Kadran üzerinde sporcu temalı detaylar bulunsun, örneğin sporcu figürü, spor aletleri veya spor etkinlikleriyle ilgili grafikler. Saat, dayanıklı ve su geçirmez bir yapıda olmalıdır, sporcuların egzersiz yaparken veya antrenman yaparken kullanabileceği şekilde tasarlanmış olmalıdır. Saat kayışı, rahat bir giyim sağlamak için yumuşak ve esnek bir malzemeden yapılmış olsun. Renk şeması, sporcu motivasyonunu artırmak için canlı ve enerjik renkler içersin, örneğin kırmızı ve siyah gibi. Lütfen saatin ekranının arkasında fonksiyonel spor özellikleri bulunsun, örneğin adım sayacı, nabız ölçer veya egzersiz takibi gibi. Saatin tasarımı, sporcu ruhunu yansıtan dinamik ve modern bir görünüme sahip olsun.
+
+Spor sırt çantası istiyorum. Çanta, dayanıklı ve su geçirmez bir malzemeden yapılmış olsun, böylece sporcuların antrenman yaparken veya dış mekanda egzersiz yaparken kullanabileceği kadar sağlam olsun. Çanta, büyük bir ana bölme ve çeşitli cepler içersin, böylece sporcuların ekipmanlarını düzenli bir şekilde taşıyabileceği kadar fonksiyonel olsun. Ana bölme, spor ekipmanlarının kolayca yerleştirilebileceği geniş bir iç hacme sahip olmalıdır. Ayrıca, çanta üzerinde sporcu temalı detaylar bulunsun, örneğin sporcu figürü, spor aletleri veya spor etkinlikleriyle ilgili grafikler olsun. Çantanın arka kısmı, sporcuların rahat bir şekilde taşıyabileceği şekilde ergonomik olarak tasarlanmış olmalıdır, omuz askıları ve bel kemeri destekli olsun. Renk şeması, sporcu motivasyonunu artırmak için canlı ve enerjik renkler içersin, örneğin mavi ve yeşil tonlar kullanılabilir. Lütfen çantanın yanında şişe tutucu veya su geçirmez cep gibi ek fonksiyonel detaylar bulunsun.
+
+Minimalist bir sporcu kamp çadırı oluşturun. Çadır, hafif ve kompakt bir yapıda olsun, böylece sporcuların taşıması ve kurması kolay olsun. Çadır, tek kişilik olacak şekilde tasarlanmış ve minimal bir iç mekana sahip olsun. İç mekanda sadece bir uyku tulumu ve bir mat sığacak kadar alan bulunsun. Çadırın dış yüzeyinde hiçbir ek detay veya süsleme olmasın, sadece fonksiyonel bir tasarım tercih edilsin. Renk şeması, doğal ve nötr renklerden oluşsun, örneğin gri, siyah veya yeşil gibi. Çadırın kurulumu hızlı ve basit olsun, sporcuların kamp alanında kolayca kurup toplayabileceği bir tasarıma sahip olsun
+
+Fitness Hub için bir logo oluşturun. Logo, modern ve dinamik bir tasarıma sahip olsun, spor ve fitness temalarını yansıtsın. Logoda 'Fuat's Fitness Hub' yazısı yer alsın ve yazılar, sade ve okunaklı bir font kullanılarak stilize edilsin. Logo, sporcu figürleri veya spor ekipmanları gibi spor temalı grafikler içersin. Renk şeması, sporcu motivasyonunu artırmak için canlı ve enerjik renklerden oluşsun, örneğin mavi, yeşil veya kırmızı gibi. Logo, dairesel veya dikdörtgen bir şekilde tasarlanmış olsun ve kompakt bir yapıya sahip olsun, böylece web sitesi ve diğer materyallerde kullanımı kolay olsun.
+
+Fuat's Fitness Hub isimli bir fitness ürün görselleri içeren web sitesi oluşturmak istiyorum. bunun için gereken html ve css kodlarını yaz
+
+images klasörünün altındaki görüntüleri kullanarak siteye ürünler ekle
+
+Bu ürünün altına açıklama ekle
+
+bu siteye uygun bir footer ekle 
